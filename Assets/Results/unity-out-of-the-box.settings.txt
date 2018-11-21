@@ -1,0 +1,8 @@
+FixedTimestep: 0
+SolverIterations: 0
+BoxType: 
+StackHeightMultiplier: 0
+RunExperimentInFixedUpdate: False
+Repeats: 0
+MaximumSimulationFrames: 0
+Gravity: 0

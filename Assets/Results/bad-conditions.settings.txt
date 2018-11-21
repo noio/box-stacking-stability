@@ -1,0 +1,7 @@
+NumberOfBoxes: 20
+FixedTimestep: 0.05
+SolverIterations: 10
+StackHeightMultiplier: 1.02
+RunExperimentInFixedUpdate: True
+Repeats: 2
+MaximumSimulationFrames: 1000

@@ -1,0 +1,12 @@
+Date: 2018-11-20 12:12:15
+FixedTimestep: 0.05
+BoxType: CompoundBox
+StackHeightMultiplier: 1.02
+RunExperimentInFixedUpdate: False
+Repeats: 2
+MaximumSimulationFrames: 1000
+Gravity: 6
+BoxDensity: 1
+SleepThreshold: 0.005
+PositionJitter: 0.2
+RandomizeAngle: True

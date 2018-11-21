@@ -1,0 +1,8 @@
+NumberOfBoxes: 20
+FixedTimestep: 0.02
+SolverIterations: 6
+BoxType: Cube
+StackHeightMultiplier: 1.01
+RunExperimentInFixedUpdate: False
+Repeats: 10
+MaximumSimulationFrames: 1000

@@ -1,0 +1,12 @@
+Date: 2018-11-20 13:48:51
+FixedTimestep: 0.05
+StackHeightMultiplier: 1.02
+RunExperimentInFixedUpdate: False
+Repeats: 20
+MaximumSimulationFrames: 1000
+Gravity: 6
+BoxDensity: 1
+SleepThreshold: 0.005
+Friction: 1
+PositionJitter: 0.2
+RandomizeAngle: True

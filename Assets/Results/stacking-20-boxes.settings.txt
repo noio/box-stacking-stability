@@ -1,0 +1,7 @@
+NumberOfBoxes: 0
+FixedTimestep: 0
+BoxType: 
+StackHeightMultiplier: 0
+RunExperimentInFixedUpdate: False
+Repeats: 0
+MaximumSimulationFrames: 0

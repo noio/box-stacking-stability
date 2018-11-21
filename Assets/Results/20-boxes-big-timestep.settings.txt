@@ -1,0 +1,6 @@
+Date: 2018-11-19 16:13:13
+NumberOfBoxes: 20
+FixedTimestep: 0.05
+RunExperimentInFixedUpdate: True
+Repeats: 1
+MaximumSimulationFrames: 1000

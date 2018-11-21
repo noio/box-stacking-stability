@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd0f3deda9595445e9e294a66e83ac57, type: 3}
+  m_Name: For Recording
+  m_EditorClassIdentifier: 
+  NumberOfBoxes:
+    Min: 2
+    Max: 14
+    StepSize: 6
+  FixedTimestep:
+    Min: 0.05
+    Max: 0.05
+    StepSize: 0.01
+  SolverIterations:
+    Min: 6
+    Max: 6
+    StepSize: 1
+  BoxType:
+    Options:
+    - Cube
+  StackHeightMultiplier:
+    Min: 1.02
+    Max: 1.02
+    StepSize: 1
+  RunExperimentInFixedUpdate:
+    On: 1
+    Off: 0
+  Repeats:
+    Min: 1
+    Max: 1
+    StepSize: 1
+  MaximumSimulationFrames:
+    Min: 5000
+    Max: 5000
+    StepSize: 1
+  Gravity:
+    Min: 9.81
+    Max: 9.81
+    StepSize: 1

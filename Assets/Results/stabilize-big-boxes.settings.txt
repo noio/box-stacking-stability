@@ -1,0 +1,8 @@
+Date: 2018-11-19 17:33:29
+FixedTimestep: 0.05
+BoxType: BigFlatBox
+RunExperimentInFixedUpdate: False
+Repeats: 2
+MaximumSimulationFrames: 1000
+Gravity: 6
+BoxDensity: 1

@@ -1,0 +1,7 @@
+FixedTimestep: 0.02
+BoxType: Cube
+StackHeightMultiplier: 1.02
+RunExperimentInFixedUpdate: False
+Repeats: 10
+MaximumSimulationFrames: 1000
+Gravity: 9.81

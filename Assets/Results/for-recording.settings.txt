@@ -1,0 +1,12 @@
+Date: 2018-11-20 11:05:12
+FixedTimestep: 0
+SolverIterations: 0
+BoxType: 
+StackHeightMultiplier: 0
+RunExperimentInFixedUpdate: False
+Repeats: 0
+MaximumSimulationFrames: 0
+Gravity: 0
+BoxDensity: 0
+SleepThreshold: 0
+Friction: 0

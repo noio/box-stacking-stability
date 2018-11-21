@@ -1,0 +1,15 @@
+Date: 2018-11-20 16:07:21
+FixedTimestep: 0.05
+SolverIterations: 10
+BoxType: FrozenCompoundBox
+StackHeightMultiplier: 1.02
+RunExperimentInFixedUpdate: True
+Repeats: 20
+MaximumSimulationFrames: 1000
+Gravity: 6
+BoxDensity: 1
+SleepThreshold: 0.01
+Friction: 1
+PositionJitter: 2
+RandomizeAngle: True
+StackOneByOne: False
